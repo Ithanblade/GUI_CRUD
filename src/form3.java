@@ -53,7 +53,7 @@ public class form3 extends JFrame {
                     System.out.println("Se eliminaron: "+n+" lineas");
 
                     if (n>0){
-                        JOptionPane.showMessageDialog(null,"Estudiante correctamente");
+                        JOptionPane.showMessageDialog(null,"Estudiante eliminado correctamente");
                     }else {
                         JOptionPane.showMessageDialog(null,"No existe el registro del estudiante");
 
